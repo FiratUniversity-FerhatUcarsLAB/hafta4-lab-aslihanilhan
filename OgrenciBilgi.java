@@ -56,7 +56,7 @@ public class OgrenciBilgi {
         String durum = (gpa >= 2.0) ? "Basarili Ogrenci" : "Basarisiz Ogrenci";
         System.out.println("Durum: " + durum);
         
-        // Scanner'i kapatin (önemli pratik)
+        // Scanner'i kapatin 
         scanner.close();
     }
 }
